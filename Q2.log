@@ -1,0 +1,20 @@
+LTspice 24.1.6 for Windows
+Circuit: C:\Users\User\Desktop\YASH & SRIJAN\Q2\Q2.net
+Start Time: Sun Mar 30 12:14:26 2025
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.075 seconds.
+
+Files loaded:
+C:\Users\User\Desktop\YASH & SRIJAN\Q2\Q2.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\User\Downloads\library files to be used.txt
+
